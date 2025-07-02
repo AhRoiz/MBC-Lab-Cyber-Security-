@@ -4,10 +4,10 @@
 
 Landing page ini dikembangkan sebagai bagian dari **Technical Test Cybersecurity** pada proses seleksi Research Assistant **MBC Laboratory 2025**.
 
-## 📌 Deskripsi Proyek
+##  Deskripsi Proyek
 Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengembang dari MBC Lab secara informatif dan modern, dengan implementasi prinsip keamanan dasar dan deployment cloud.
 
-## 📁 Struktur Folder
+##  Struktur Folder
 ```
 mbc-lab/
 ├── public/                → File HTML statis
@@ -42,14 +42,14 @@ mbc-lab/
 - Buka `kontak.html` di browser
 - Isi dan kirim form → data muncul di terminal backend
 
-## 📤 Rencana Deployment
+##  Rencana Deployment
 Website ini dapat dengan mudah dideploy ke:
 - **Vercel**
 - **Netlify**
 
 Silakan hubungkan folder `public/` ke GitHub, lalu sambungkan ke Vercel.
 
-## 📄 Status
+##  Status
 ✅ Halaman statis lengkap
 ✅ Backend form berjalan
 ⏳ Dokumentasi PDF & Deployment menyusul
