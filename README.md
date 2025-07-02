@@ -24,7 +24,7 @@ mbc-lab/
 ##  Teknologi yang Digunakan
 - HTML5 + TailwindCSS
 - Node.js + Express.js
-- Deployment: (belum dilakukan) via Vercel / Netlify *(direkomendasikan)*
+- Deployment: via Vercel 
 
 ##  Cara Menjalankan (Local Development)
 ### Jalankan server backend
