@@ -43,17 +43,13 @@ mbc-lab/
 - Isi dan kirim form → data muncul di terminal backend
 
 ##  Rencana Deployment
-Website ini dapat dengan mudah dideploy ke:
+Website ini telah di dideploy ke:
 - **Vercel**
-- **Netlify**
 
-Silakan hubungkan folder `public/` ke GitHub, lalu sambungkan ke Vercel.
+Website ini dapat ditemukan dengan domain : https://mbc-lab.vercel.app/
 
-##  Status
-✅ Halaman statis lengkap
-✅ Backend form berjalan
-⏳ Dokumentasi PDF & Deployment menyusul
+Untuk percobaan deployment sendiri,silahkan hubungkan folder `public/` ke GitHub, lalu sambungkan ke Vercel.
 
 ---
 
-© Ahmad Rofi — 2025
+© Ahmad Rofi' Izzulhaq — 2025
