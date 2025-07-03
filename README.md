@@ -36,7 +36,7 @@ Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengemban
 - Hosting with Vercel (GitHub-integrated CI/CD)
 
 
-##  Rencana Deployment
+##  Deployment
 Website ini telah di dideploy ke:
 - **Vercel**
 
