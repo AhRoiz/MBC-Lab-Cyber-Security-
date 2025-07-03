@@ -7,6 +7,13 @@ Landing page ini dikembangkan sebagai bagian dari **Technical Test Cybersecurity
 ##  Deskripsi Proyek
 Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengembang dari MBC Lab secara informatif dan modern, dengan implementasi prinsip keamanan dasar dan deployment cloud.
 
+## 🚀 Live Preview
+
+[Klik di sini untuk mengakses langsung](https://mbc-lab.vercel.app)
+
+---
+
+
 ##  Struktur Folder
 ```
 mbc-lab/
