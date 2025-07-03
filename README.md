@@ -13,7 +13,7 @@ Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengemban
 
 ---
 
-## ✨ Fitur Utama
+##  Fitur Utama
 
 -  Landing Page responsif
 -  Struktur halaman:
