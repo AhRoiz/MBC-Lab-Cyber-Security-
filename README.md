@@ -22,8 +22,8 @@ Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengemban
   - Kontak
   - Developer
 -  Form kontak yang terhubung dengan serverless API (Vercel)
--  Styling menggunakan TailwindCSS CDN
--  Backend ringan menggunakan Node.js API route (`/api/kirim-pesan`)
+-  Styling menggunakan TailwindCSS 
+-  Backend ringan menggunakan Node.js API route 
 
 
 ##  Struktur Folder
