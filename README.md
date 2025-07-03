@@ -14,46 +14,32 @@ Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengemban
 ---
 
 
-##  Struktur Folder
-```
-mbc-lab/
-├── public/                → File HTML statis
-│   ├── home.html
-│   ├── divisi.html
+## 📂 Struktur Folder
+
+```bash
+.
+├── public/
+│   ├── index.html
 │   ├── kontak.html
-│   └── developer.html
-├── backend/               → Server Node.js untuk form kontak
-│   └── server.js
-├── package.json           → Konfigurasi npm
-└── README.md              → Dokumentasi proyek ini
+│   ├── divisi.html
+│   ├── developer.html
+├── api/
+│   └── kirim-pesan.js
+├── README.md
+├── package.json (opsional)
 ```
+
 
 ##  Teknologi yang Digunakan
 - HTML5 + TailwindCSS
 - Node.js + Express.js
 - Deployment: via Vercel 
 
-##  Cara Menjalankan (Local Development)
-### Jalankan server backend
-1. Install dependency:
-   ```bash
-   npm install
-   ```
-2. Jalankan server:
-   ```bash
-   node backend/server.js
-   ```
-3. Server berjalan di: `http://localhost:3000`
-
-### Uji Form Kontak
-- Buka `kontak.html` di browser
-- Isi dan kirim form → data muncul di terminal backend
 
 ##  Rencana Deployment
 Website ini telah di dideploy ke:
 - **Vercel**
 
-Website ini dapat ditemukan dengan domain : https://mbc-lab.vercel.app/
 
 Untuk percobaan deployment sendiri,silahkan hubungkan folder `public/` ke GitHub, lalu sambungkan ke Vercel.
 
