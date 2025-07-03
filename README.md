@@ -13,6 +13,18 @@ Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengemban
 
 ---
 
+## ✨ Fitur Utama
+
+-  Landing Page responsif
+-  Struktur halaman:
+  - Home
+  - Divisi
+  - Kontak
+  - Developer
+-  Form kontak yang terhubung dengan serverless API (Vercel)
+-  Styling menggunakan TailwindCSS CDN
+-  Backend ringan menggunakan Node.js API route (`/api/kirim-pesan`)
+
 
 ##  Struktur Folder
 
