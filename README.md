@@ -32,8 +32,8 @@ Website ini bertujuan untuk menampilkan profil, layanan, dan identitas pengemban
 
 ##  Teknologi yang Digunakan
 - HTML5 + TailwindCSS
-- Node.js + Express.js
-- Deployment: via Vercel 
+- Vercel Serverless Function (Node.js)
+- Hosting with Vercel (GitHub-integrated CI/CD)
 
 
 ##  Rencana Deployment
